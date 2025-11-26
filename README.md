@@ -1,4 +1,4 @@
-# Hola, soy Cristina
+# ¡Hola! soy Cristina
 Soy estudiante de **FP Superior DAW** 
 
 ## Tecnologías:
@@ -12,8 +12,7 @@ Soy estudiante de **FP Superior DAW**
 - SQL y Bases de datos
 
 ## Contacto
-[LinkedIn](
-linkedin.com/in/cristina-lópez-111664166)
+[LinkedIn](linkedin.com/in/cristina-lópez-111664166)
 <!--
 **cristinaldlp9/cristinaldlp9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
